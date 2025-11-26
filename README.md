@@ -1,7 +1,9 @@
 👋 Hi, I’m Aleksandr Samokhin, ex-founder of DeoThemes, an expert WordPress full-stack developer with a background in UI/UX. 10+ years of experience.
 
 💻 My website - https://aleksandrsamokhin.com \
-💻 DeoThemes - https://deothemes.com
+💻 DeoThemes - https://deothemes.com \
+💻 WordPress.org - (https://profiles.wordpress.org/deothemes \
+💻 LinkedIn - https://www.linkedin.com/in/alexander-samokhin
 
 ## 💼 Work Experience
 
