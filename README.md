@@ -2,7 +2,7 @@
 
 💻 My website - https://aleksandrsamokhin.com \
 💻 DeoThemes - https://deothemes.com \
-💻 WordPress.org - (https://profiles.wordpress.org/deothemes \
+💻 WordPress.org - https://profiles.wordpress.org/deothemes \
 💻 LinkedIn - https://www.linkedin.com/in/alexander-samokhin
 
 ## 💼 Work Experience
