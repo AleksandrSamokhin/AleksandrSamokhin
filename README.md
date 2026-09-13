@@ -1,6 +1,7 @@
-👋 Hi, I’m Aleksandr Samokhin, Lead Developer at DeoThemes, a Full-stack developer with a background in UI/UX. 10+ years of experience.
+👋 Hi, I’m Aleksandr Samokhin, AI-augmented product builder, full-stack developer building SaaS, WordPress, and Shopify products. 15+ years of experience.
 
 💻 My website - https://aleksandrsamokhin.com \
+💻 PostQuest - https://post-quest.com/ \
 💻 DeoThemes - https://deothemes.com \
 💻 WordPress.org - https://profiles.wordpress.org/deothemes \
 💻 LinkedIn - https://www.linkedin.com/in/alexander-samokhin
